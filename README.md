@@ -155,4 +155,4 @@ modify your own device.
 Modifying an application may violate its terms of service and, in some
 jurisdictions, law. You are responsible for what you do with this.
 
-GPL-3.0. See [LICENSE](LICENSE).
+WTFPL v2 — do what the fuck you want to. See [LICENSE](LICENSE).

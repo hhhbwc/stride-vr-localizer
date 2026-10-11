@@ -143,4 +143,4 @@ tests/                 合成数据测试
 
 修改应用可能违反其服务条款，在某些司法辖区可能违法。你为自己的行为负责。
 
-GPL-3.0，见 [LICENSE](LICENSE)。
+WTFPL v2 —— 想干嘛干嘛。见 [LICENSE](LICENSE)。

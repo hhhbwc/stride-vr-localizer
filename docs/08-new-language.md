@@ -95,5 +95,5 @@ pre-shaping step before rasterisation.
 ## 6. Contributing the table back
 
 A `locales/<lang>/strings.tsv` plus a two-line `fonts.json` is a complete,
-self-contained contribution. Open a pull request; the licence is GPL-3.0, so
-translations are free to reuse.
+self-contained contribution. Open a pull request — the licence is WTFPL, so
+translations are free to reuse, fork, or fold into anything.
