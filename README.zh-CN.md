@@ -13,6 +13,7 @@ PICO 4（Android 10，已 root）
 ```
 
 [完整文档](docs/index.md) · [踩坑清单](docs/07-pitfalls.md) ·
+[完整复盘](docs/10-case-study.md) · [排障](docs/11-troubleshooting.md) ·
 [添加新语言](docs/08-new-language.md) · [测试](tests/smoke_test.py)
 
 ---
@@ -115,7 +116,7 @@ tools/
 locales/
   zh-CN/               参考翻译（187 条）
   _template/           新语言起点
-docs/                  逆向笔记与测试矩阵
+docs/                  12 篇逆向笔记与操作文档，含测试矩阵
 tests/                 合成数据测试
 ```
 

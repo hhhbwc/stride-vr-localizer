@@ -10,9 +10,12 @@
   "root": ".",
 
   "device": {
+    "_serial": "adb devices 看到的序列号；留空则用默认设备",
     "serial": "",
+    "_package": "要本地化的应用包名",
     "package": "VirtualDesktop.Android",
-    "installed_apk": "/data/app/VirtualDesktop.Android-v2Wc6C-HdWl13uP7n5UXjg==/base.apk"
+    "_installed_apk": "该应用在你设备上的 base.apk 路径，用 adb shell pm path <package> 查；不同设备这串 hash 不同",
+    "installed_apk": "/data/app/<package>-<hash>/base.apk"
   },
 
   "apk": {

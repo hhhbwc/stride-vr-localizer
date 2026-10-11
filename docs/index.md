@@ -16,5 +16,8 @@ fully-localised Quest 2 build as a cross-check reference.
 | [07 — Pitfalls](07-pitfalls.md) | **read this first** — every trap, with the test matrix |
 | [08 — New language](08-new-language.md) | producing your own localisation |
 | [09 — APK packaging](09-apk-packaging.md) | swapping a bundle without breaking the signature |
+| [10 — Case study](10-case-study.md) | the full account: blank glyphs, a crash matrix, a rule that had to be un-learned |
+| [11 — Troubleshooting](11-troubleshooting.md) | symptom → cause → fix, plus FAQ |
+| [12 — Tool reference](12-tool-reference.md) | every flag, with real output |
 
 The reference localisation is `locales/zh-CN` (187 entries, on-device verified).

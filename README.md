@@ -14,6 +14,7 @@ PICO 4 (Android 10, rooted)
 ```
 
 [Documentation](docs/index.md) · [Pitfalls](docs/07-pitfalls.md) ·
+[Case study](docs/10-case-study.md) · [Troubleshooting](docs/11-troubleshooting.md) ·
 [Adding a language](docs/08-new-language.md) · [Tests](tests/smoke_test.py)
 
 ---
@@ -122,7 +123,7 @@ tools/
 locales/
   zh-CN/               the reference translation (187 entries)
   _template/           starting point for a new language
-docs/                  the reverse-engineering notes, with the test matrix
+docs/                  12 reverse-engineering and how-to pages, with the test matrix
 tests/                 synthetic-data tests
 ```
 
