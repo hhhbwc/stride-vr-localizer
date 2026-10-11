@@ -5,6 +5,9 @@ Xenko/Stride-based VR application. Everything here was verified against
 Virtual Desktop 1.34.22.0 on a PICO 4 (Android 10, rooted), with a
 fully-localised Quest 2 build as a cross-check reference.
 
+**These pages are English-only for now.** The three READMEs at the repository
+root are translated; translations of the docs are welcome as pull requests.
+
 | page | what is in it |
 |---|---|
 | [01 — Getting started](01-getting-started.md) | prerequisites, first build, install |

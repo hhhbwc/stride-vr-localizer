@@ -1,3 +1,5 @@
+[English](README.md) · [简体中文](README.zh-CN.md) · **Русский**
+
 # Stride VR Localizer
 
 **Набор инструментов для локализации UI VR-приложений на движке Xenko/Stride.**
