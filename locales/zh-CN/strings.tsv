@@ -1,0 +1,196 @@
+# zh-CN translation table for Virtual Desktop (PICO 4 build, 1.34.22.0)
+# Columns: <source English>	<translation>	<occurrences in bundle>
+# Sorted by source length, descending - longest phrases are substituted first
+# so that a short entry can never swallow text belonging to a longer one.
+#
+# Verified on-device (build T22). Control names such as btnSettings /
+# itemEnvironment are deliberately NOT in this table: translating them breaks
+# resource lookup and crashes the UI (docs/07-pitfalls.md #3).
+
+A serene volcanic valley in the Icelandic Highlands, surrounded by colorful rhyolite mountains and vast lava fields.	冰岛高地宁静的火山山谷，四周环绕着色彩斑斓的流纹岩山脉和广阔的熔岩原野。	
+Go into your Quest Settings, select the Link tab, scroll down and enable 'USB connections for apps'	进入头显设置，选择Link选项卡，向下滚动并启用“应用USB连接”	
+Higher bitrate will increase quality when streaming the desktop but will increase battery usage	桌面码率越高画质越好，但耗电越快	
+Higher bitrate will reduce compression artifacts but will increase latency and battery usage.	码率越高压缩伪影越少，但延迟和耗电增加。	
+Blend VR games with your environment. Usable up to High quality at 90fps and SGSR disabled	将VR游戏与环境混合。最高支持High画质90fps且关闭SGSR	
+Causes PC to switch to half framerate while headset extrapolates the missing frames	PC降至半帧率，头显补算缺失帧	
+Changes your monitor's resolution to match the streaming resolution (recommended)	将显示器分辨率改为与串流分辨率一致（推荐）	
+Streaming PCVR games is only possible on a VR Ready PC running Windows 10 or 11	串流PCVR游戏需要一台运行Windows 10/11的VR电脑	
+Upscales the image to increase detail. Usable up to High quality at 90fps	放大图像增加细节。最高支持High画质90fps	
+2.  In the app, accept the prompt to allow access or manually enter your	2. 在串流端允许访问，或手动输入本机	
+Improves image quality through a Contrast Adaptive Sharpening algorithm	通过对比度自适应锐化算法提升画质	
+Higher frame rate will reduce flicker but also increase battery usage	帧率越高闪烁越少，但耗电越快	
+Virtual Desktop servers unavailable, only showing local computers	VD服务器不可用，仅显示本地电脑	
+Configure how the desktop and videos blend with the environment	配置桌面和视频与环境的混合方式	
+Once enabled, long press the menu button to return here	启用后长按菜单键返回这里	
+To make your computer accessible, follow these steps:	要让电脑可被连接，请按以下步骤：	
+Requires restart of game / SteamVR to take effect	需重启游戏/SteamVR生效	
+Increases battery usage, only use when recording	增加耗电，仅录制时使用	
+1.  Download and Install the Streamer app from 	1. 从 vrdesktop.net 下载安装串流端 	
+Screen content will light up some environments	屏幕内容会照亮部分环境	
+Changes the render and streaming resolutions.	更改渲染和串流分辨率。	
+Allow custom orientation in all environments	允许在所有环境中自定义方向	
+Release trigger to complete and save portal	松开扳机键完成并保存传送门	
+Higher quality will increase battery usage	画质越高耗电越快	
+Press both thumbsticks to hide the overlay	同时按下双摇杆隐藏浮层	
+Increase gamma to make the image brighter	提高伽马值使画面更亮	
+Uses eye tracking to optimize the stream	利用眼动追踪优化串流	
+With left thumbstick and options button	用左摇杆和选项键	
+Enable to play games with your gamepad	启用后可用手柄玩游戏	
+Center to play space (Stage tracking)	对齐游玩空间（舞台追踪）	
+Background music when disconnected	断开连接时播放背景音乐	
+Controllers interact with desktop	手柄与桌面交互	
+Press grip to grab/resize screen	按住侧键抓取/调整屏幕	
+Use touch controllers as gamepad	将手柄用作游戏手柄	
+When right thumbstick is pressed	右摇杆按下时	
+Enabled when controller inactive	手柄闲置时启用	
+Pull and hold trigger to draw   	扣住扳机键开始绘制     	
+Thumbstick horizontal scrolling	摇杆水平滚动	
+Retrieving video information...	正在获取视频信息…	
+Automatically hide controllers	自动隐藏手柄	
+Emulate D-pad and Start button	模拟方向键和开始键	
+When right thumbrest is active	右拇指托激活时	
+Thumbstick vertical scrolling	摇杆垂直滚动	
+Hold menu to switch out of VR	长按菜单键退出VR	
+Emulate SteamVR Vive trackers	模拟Vive追踪器	
+Arrange monitors on recenter	归中时排列显示器	
+VR Passthrough Configuration	VR透视设置	
+Hands interact with desktop	双手与桌面交互	
+Video & Screen Transparency	视频与屏幕透明度	
+Copy screenshots to desktop	复制截图到桌面	
+Synchronous Spacewarp (SSW)	同步空间扭曲(SSW)	
+Reduces occasional stutters	减少偶发卡顿	
+Forward tracking data to PC	转发追踪数据到PC	
+Moving file, please wait...	正在移动文件…	
+Press the trigger to accept	扣动扳机键以接受	
+When right grip is pressed	右握键按下时	
+Transparency Configuration	透明度设置	
+Allow to connect over USB	允许USB连接	
+Show Games tab on connect	连接时显示游戏页	
+Emulate Index controllers	模拟Index手柄	
+Not on same local network	不在同一局域网	
+Environment provided by:	环境提供者：	
+Automatically hide hands	自动隐藏双手	
+Show performance overlay	显示性能浮层	
+Increase color vibrance	增强色彩鲜艳度	
+Not connected to Wi-Fi	未连接Wi-Fi	
+Use optimal resolution	使用最佳分辨率	
+Microphone passthrough	麦克风透传	
+Remove head lock delay	去除头锁延迟	
+Pointer stabilization	指针稳定	
+Emulate gamepad on PC	在PC模拟手柄	
+Game Super Resolution	游戏超级分辨率	
+Arrange monitors now	立即排列屏幕	
+     Meta Username: 	     Meta用户名: 	
+Environment Quality	环境画质	
+VR Graphics Quality	VR画质	
+Passthrough Opacity	透视不透明度	
+Daily limit reached	已达每日上限	
+Create Desk Portal	桌面传送门	
+Noise cancellation	降噪	
+Render resolution:	渲染分辨率:	
+Foveated streaming	注视点串流	
+Switch to Desktop	切换到桌面	
+Passthrough hands	手部透视	
+Screen Brightness	屏幕亮度	
+Boost clock rates	提升频率	
+Track controllers	追踪手柄	
+Reset to Defaults	恢复默认	
+Show Hidden Items	显示隐藏项	
+Render resolution	渲染分辨率	
+Automatic bitrate	自动码率	
+Iceland Riverbed	冰岛河谷	
+Tracked keyboard	追踪键盘	
+Dynamic Lighting	动态灯光	
+Advanced Options	高级选项	
+Recommended GPU:	推荐GPU:	
+Video Frame Rate	视频帧率	
+Target framerate	目标帧率	
+Desktop Bitrate	桌面码率	
+Video buffering	视频缓冲	
+Recently played	最近游玩	
+Launch SteamVR	启动SteamVR	
+See Store Page	查看商店	
+Drawing Portal	画传送门	
+Always enabled	始终启用	
+VR Passthrough	VR透视	
+Mark as Hidden	设为隐藏	
+Switch Monitor	切换显示器	
+Remove Monitor	移除显示器	
+Hand tracking	手部追踪	
+Local dimming	局部调光	
+VR Frame Rate	VR帧率	
+Show boundary	显示边界	
+Video Bitrate	视频码率	
+Input Options	输入选项	
+Version 1.0.0	版本 1.0.0	
+Portrait Mode	竖屏模式	
+Switch to VR	切换到VR	
+Exit SteamVR	退出	
+ENVIRONMENTS	环境	
+Use Eye Gaze	眼动追踪	
+Auto connect	自动连接	
+Configure...	配置...	
+Ask for help	寻求帮助	
+Oculus Games	Oculus 游戏	
+Transparency	透明度	
+Desk Portal	传送门	
+Max bitrate	最大码率	
+PC Ethernet	PC有线	
+Steam Games	Steam 游戏	
+Environment	环境	
+Gfx Quality	画质	
+Switch Seat	切换座位	
+Downloading	下载中	
+Frame Rate	帧率	
+VR Bitrate	VR码率	
+Local file	本地	
+Similarity	相似度	
+Smoothness	平滑度	
+Sharpening	锐化	
+Descending	降序	
+Networking	网络	
+Reset View	重置视角	
+Disconnect	断开连接	
+Exit Game	退出	
+Paste URL	粘贴URL	
+caps lock	大写	
+COMPUTERS	计算机	
+STREAMING	串流	
+Ascending	升序	
+Automatic	自动	
+Framerate	帧率	
+Spacewarp	空间扭曲	
+Head Lock	头部锁定	
+Computers	电脑	
+Headset:	头显:	
+Version:	版本:	
+Half SBS	半宽	
+Full SBS	全宽	
+SETTINGS	设置	
+Disabled	已禁用	
+Encoding	编码	
+Decoding	解码	
+Distance	距离	
+Download	下载	
+Settings	设置	
+Gamepad	游戏手柄	
+Latency	延迟	
+Bitrate	码率	
+Runtime	运行时	
+Headset	头显	
+Green:	绿:	
+VIDEOS	视频	
+Medium	中等	
+Videos	视频	
+Cancel	取消	
+Height	高度	
+Blue:	蓝:	
+pg up	上翻页	
+pg dn	下翻页	
+GAMES	游戏	
+INPUT	输入	
+Codec	编解码器	
+Curve	曲率	
+Red:	红:	
+Game	游戏	
+Size	大小	

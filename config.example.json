@@ -1,0 +1,54 @@
+{
+  "_comment": [
+    "Copy this file to config.json and edit the values for YOUR device.",
+    "Every path is relative to the repository root unless absolute.",
+    "All defaults below are the values verified on Virtual Desktop",
+    "1.34.22.0 (PICO 4, Android 10). Re-derive them for another",
+    "app version with:  python tools/probe.py"
+  ],
+
+  "root": ".",
+
+  "device": {
+    "serial": "",
+    "package": "VirtualDesktop.Android",
+    "installed_apk": "/data/app/VirtualDesktop.Android-v2Wc6C-HdWl13uP7n5UXjg==/base.apk"
+  },
+
+  "apk": {
+    "source": "work/base.apk",
+    "data_entry": "assets/data/db/bundles/default.b65fc36561f156d9d380862e7304cc55.bundle",
+    "index_entry": "assets/data/db/bundles/default.bundle",
+    "output": "work/out.apk"
+  },
+
+  "bundles": {
+    "data": "work/data.bundle",
+    "index": "work/index.bundle"
+  },
+
+  "table": {
+    "data_header": 28,
+    "index_header": 45,
+    "record_size": 46,
+    "index_count_offset": 41
+  },
+
+  "fonts": [
+    { "rec": 861, "weight": "bold" },
+    { "rec": 865, "weight": "regular" },
+    { "rec": 1967, "weight": "regular" }
+  ],
+
+  "ui_pages": [869, 954, 1211, 1405, 1506, 1928, 1963, 1969],
+
+  "language": {
+    "code": "zh-CN",
+    "strings": "locales/zh-CN/strings.tsv",
+    "fonts": {
+      "regular": "fonts/NotoSansSC-Regular.ttf",
+      "bold": "fonts/NotoSansSC-Bold.ttf"
+    },
+    "extra_glyphs": "，。、；：？！（）《》【】“”‘’—…·～　"
+  }
+}

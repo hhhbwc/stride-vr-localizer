@@ -1,0 +1,28 @@
+# Scratch space for the large proprietary binaries you supply yourself.
+# Nothing in this directory is ever committed.
+work/
+
+# Bundle / APK outputs
+*.bundle
+*.apk
+*.idsig
+
+# Fonts: drop your own freely-licensed TTF/OTF here (e.g. Noto Sans SC).
+# Do NOT commit commercial fonts.
+fonts/*.ttf
+fonts/*.otf
+fonts/*.ttc
+
+# Generated atlases and intermediate artifacts
+*.atlas.bin
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local overrides of the example config
+config.json

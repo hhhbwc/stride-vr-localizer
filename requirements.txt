@@ -1,0 +1,6 @@
+# Runtime dependencies of the toolchain.
+#   python -m pip install -r requirements.txt
+#
+# Python >= 3.9 is enough (nothing newer than the | union type syntax is used).
+Pillow>=9.0        # glyph rasterisation for atlas repacking
+lz4>=4.0           # Stride LZ4Stream block decompression

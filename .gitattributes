@@ -1,0 +1,19 @@
+# Normalise line endings on commit. Without this, a Windows checkout turns
+# every .sh into a CRLF file that bash refuses to run.
+* text=auto eol=lf
+
+*.sh    text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.tsv   text eol=lf
+*.txt   text eol=lf
+
+# Binary - never touch
+*.png   binary
+*.ttf   binary
+*.otf   binary
+*.ttc   binary
+*.bundle binary
+*.apk   binary
+*.bin   binary

@@ -1,0 +1,5 @@
+{
+  "_comment": "Which font files to rasterise this script with. Paths are relative to the repository root. Put the actual files in fonts/ (gitignored).",
+  "regular": "fonts/NotoSansSC-Regular.ttf",
+  "bold": "fonts/NotoSansSC-Bold.ttf"
+}
