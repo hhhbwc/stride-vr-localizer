@@ -34,6 +34,15 @@ The fonts are rebuilt by rasterising new glyphs from a TTF you supply and
 packing them *below* the original atlas, so nothing that already renders can
 move.
 
+### Status of the reference localisation
+
+**99.99 % of the English UI is translated.** What is left falls into two
+groups: control names and asset URLs that must stay in English for the app to
+find its own resources (`tbFramerate`, `itemEnvironment`,
+`UI/ControlPanel/EnvironmentSheet`), and a handful of labels that were simply
+not chased down once everything visible on screen was rendering correctly. If
+you spot one, it is a single line in `locales/zh-CN/strings.tsv`.
+
 ## The three findings that made it possible
 
 **1. The APK contains two bundles, and the engine reads the small one.**
